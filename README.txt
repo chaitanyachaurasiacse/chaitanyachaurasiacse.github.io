@@ -1,16 +1,15 @@
-CHAI TANYA CHAURASIA — STATIC PORTFOLIO
+# Chaitanya Chaurasia — Portfolio
 
-This is a lightweight, static website. No backend or build tools are needed.
+Personal portfolio showcasing my academic background, technical skills, projects, and learning journey.
 
-FASTEST WAY TO GET A PUBLIC URL:
-1. Sign in to GitHub.
-2. Create a NEW PUBLIC repository named exactly:
-   chaitanyachaurasiacse.github.io
-3. Upload index.html and the assets folder (including assets/profile.jpg) to the repository root.
-4. In the repository, open Settings → Pages.
-5. Under Build and deployment, choose Deploy from a branch, select main and / (root), then Save.
-6. Wait a minute or two. Your site URL should be:
-   https://chaitanyachaurasiacse.github.io/
+## Projects
+- **ChemTrack:** Inventory and production management web application.
+- **College Event Management System:** A role-based platform for managing college events.
 
-If that username is not your actual GitHub username, replace the repository name and URL accordingly.
-Review the internship and project descriptions before publishing; keep only statements that accurately reflect your experience.
+## Technologies
+Python, C++, Java, JavaScript, React, Node.js, Express.js, MongoDB, Git and GitHub.
+
+## Links
+- [GitHub Profile](https://github.com/chaitanyachaurasiacse)
+- [LinkedIn Profile](https://www.linkedin.com/in/chaitanya-chaurasia-359436248/)
+- [ChemTrack — Live Demo](https://chem-track-one.vercel.app/)
